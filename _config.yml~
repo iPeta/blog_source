@@ -6,8 +6,8 @@
 title: Taavo's Log
 subtitle: For The Dream
 description: For The Dream
-author: iPeta
-language:
+author: Taavo
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,7 +63,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: jacman
+theme: next
+
+# 主题设置
+disqus_shortname: tttpeng
+since: 2015
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
