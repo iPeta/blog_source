@@ -62,7 +62,7 @@ jenkins 界面如下
 
      ![进入插件](http://7xo9cc.com1.z0.glb.clouddn.com/blog_manager_plugus.png)
      
-    * 选择**可选插件（Available）**=> 在左上角**搜索框**分别输入上面提到的插件
+    * 选择**可选插件（Available）**=> 在右上角**搜索框**分别输入上面提到的插件
 
     * 选中所有需要安装的插件之后点击 **直接安装（Install without restart）**
 
@@ -74,7 +74,7 @@ jenkins 界面如下
    
 -------------------------
 ### 三、配置你的第一个job
-1. 创建一个新的 jenkins job ,选择**构建一个自由风格的软件项目（Freestyle project）**。点击 OK 之后我们就进入到了一个配置界面。通过这个配置界面我们可以对我们的构建构建过程做出很多的自定义配置。
+1. 创建一个新的 jenkins job ,选择**构建一个自由风格的软件项目（Freestyle project）**。点击 OK 之后我们就进入到了一个配置界面。通过这个配置界面我们可以对我们的构建过程做出很多的自定义配置。
  
 	![创建job](http://7xo9cc.com1.z0.glb.clouddn.com/blog_create_home)
 
